@@ -10,6 +10,10 @@ An end-to-end Machine Learning project that predicts student burnout risk levels
 
 ---
 
+🌐 **Live Demo:** [student-burnout-ai.streamlit.app](https://student-burnout-prediction-ai.streamlit.app/)
+
+--- 
+
 ## 📸 Screenshots
 
 ### Hero & Quick Guide
