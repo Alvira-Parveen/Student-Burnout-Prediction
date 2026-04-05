@@ -14,15 +14,15 @@ An end-to-end Machine Learning project that predicts student burnout risk levels
 
 | Hero & Quick Guide | Input Section |
 |:---:|:---:|
-| ![Hero](screenshots/hero.png) | ![Input](screenshots/input.png) |
+| ![Hero](Screenshots/hero.png) | ![Input](Screenshots/input.png) |
 
 | Prediction Result | Personalized Insights |
 |:---:|:---:|
-| ![Result](screenshots/result.png) | ![Insights](screenshots/insights.png) |
+| ![Result](Screenshots/result.png) | ![Insights](Screenshots/insights.png) |
 
 | Action Plan | FAQ & Footer |
 |:---:|:---:|
-| ![Action Plan](screenshots/action_plan.png) | ![FAQ](screenshots/faq.png) |
+| ![Action Plan](Screenshots/action_plan.png) | ![FAQ](Screenshots/faq.png) |
 
 ---
 
@@ -143,10 +143,10 @@ Four classifiers were trained and compared:
 
 | Model | Accuracy |
 |-------|----------|
-| Logistic Regression | ~82% |
-| Decision Tree | ~80% |
+| Logistic Regression | ~87% |
+| Decision Tree | ~85% |
 | **Random Forest** | **~88%** |
-| XGBoost | ~87% |
+| **XGBoost** | **88%** |
 
 **Random Forest** was selected as the final model (200 estimators, max_depth=10).
 
