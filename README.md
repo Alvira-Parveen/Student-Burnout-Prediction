@@ -146,7 +146,7 @@ Four classifiers were trained and compared:
 | Logistic Regression | ~87% |
 | Decision Tree | ~85% |
 | **Random Forest** | **~88%** |
-| **XGBoost** | **88%** |
+| **XGBoost** | **~88%** |
 
 **Random Forest** was selected as the final model (200 estimators, max_depth=10).
 
