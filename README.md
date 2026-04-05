@@ -12,17 +12,23 @@ An end-to-end Machine Learning project that predicts student burnout risk levels
 
 ## 📸 Screenshots
 
-| Hero & Quick Guide | Input Section |
-|:---:|:---:|
-| ![Hero](Screenshots/hero.png) | ![Input](Screenshots/input.png) |
+### Hero & Quick Guide
+![Hero](Screenshots/hero.png)
 
-| Prediction Result | Personalized Insights |
-|:---:|:---:|
-| ![Result](Screenshots/result.png) | ![Insights](Screenshots/insights.png) |
+### Input Section
+![Input](Screenshots/input.png)
 
-| Action Plan | FAQ & Footer |
-|:---:|:---:|
-| ![Action Plan](Screenshots/action_plan.png) | ![FAQ](Screenshots/faq.png) |
+### Prediction Result
+![Result](Screenshots/result.png)
+
+### Personalized Insights
+![Insights](Screenshots/insights.png)
+
+### Action Plan
+![Action Plan](Screenshots/action_plan.png)
+
+### FAQ & Footer
+![FAQ](Screenshots/faq.png)
 
 ---
 
